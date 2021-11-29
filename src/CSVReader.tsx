@@ -5,7 +5,7 @@ import getSize, { lightenDarkenColor } from './utils';
 import RemoveIcon from './RemoveIcon';
 import ProgressBar from './ProgressBar';
 
-const GREY = '#CCC';
+const GREY = '#EEE';
 const GREY_LIGHT = 'rgba(255, 255, 255, 0.4)';
 const REMOVE_ICON_DEFAULT_COLOR = '#A01919';
 const GREY_DIM = '#686868';
